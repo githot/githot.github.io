@@ -1,2 +1,2 @@
 # githot.github.io
-Githot offical site
+Githot official site
